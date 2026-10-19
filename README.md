@@ -66,4 +66,8 @@ A text diff is useful for raw document edits. Scope Diff adds stable-ID matching
 
 ## License
 
-No open-source license has been selected. Public availability alone does not grant an open-source license. Ask the repository owner before redistribution or reuse beyond applicable rights.
+MIT, see [LICENSE](LICENSE).
+
+---
+
+Built by Kamesh Jindal at [OMX Digital](https://omxdigital.ai). Part of the [OMX Claude Skills toolkit](https://github.com/OmxKamesh/claude-skills-toolkit). Need this set up for your business? [kamesh@omxdigital.ai](mailto:kamesh@omxdigital.ai)
