@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "project": "Synthetic booking portal",
+  "deliverables": [
+    {"id": "booking", "title": "Booking form", "owner": "Delivery team", "due": "Sprint 2", "acceptance": [{"id": "confirmation", "text": "Display an on-screen confirmation."}]},
+    {"id": "export", "title": "CSV export", "acceptance": [{"id": "download", "text": "Download the current month as CSV."}]}
+  ]
+}

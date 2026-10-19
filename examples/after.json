@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "project": "Synthetic booking portal",
+  "deliverables": [
+    {"id": "booking", "title": "Booking form", "owner": "Delivery team", "due": "Sprint 3", "acceptance": [{"id": "confirmation", "text": "Display an on-screen confirmation and send an email receipt."}, {"id": "retry", "text": "Duplicate submissions create only one booking."}]},
+    {"id": "dashboard", "title": "Usage dashboard", "acceptance": [{"id": "counts", "text": "Show daily booking counts."}]}
+  ]
+}
